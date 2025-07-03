@@ -4,8 +4,8 @@ author: Deepa Ingole
 email: sonaliforamit@gmail.com
 linkedin: https://www.linkedin.com/in/deepa-ingole
 github: https://github.com/DeepaLaunchCode
-baseurl: ""
-url: ""
+baseurl: "https://deepalaunchcode.github.io/deepaingole/"
+url: "https://deepalaunchcode.github.io/deepaingole/"
 remote_theme: jekyll/minima@1e8a445
 plugins:
   - jekyll-feed
